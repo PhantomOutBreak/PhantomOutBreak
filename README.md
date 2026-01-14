@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [k.laohapipatchai@gmail.com](mailto:k.laohapipatchai@gmail.com)
+* 📄 My Certification https://drive.google.com/drive/folders/17i5W4B_IUNAOiH7-_J6NEgZ4bnemjPEp?usp=drive_link
 
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
