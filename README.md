@@ -68,7 +68,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/PhantomOutBreak/Stock-Calculator">
+      <a href="https://github.com/PhantomOutBreak/Stock-Analytics-Website">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhantomOutBreak&repo=Stock-Calculator&title_color=22c55e&text_color=0891b2&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en" />
       </a>
     </td>
